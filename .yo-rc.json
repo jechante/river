@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "river",
+    "packageName": "com.schinta",
+    "packageFolder": "com/schinta",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZDMxMGYxOWM2ZTBkYzU2MTliZDgzZmNiODhhNDc4MTI4MjY1MjdmMGY5ZWUzMzkxMmJhNzRiYzgwZjEyYjgzMThjNDY2N2JkYjYzYzBhZmJmY2RkZWMxYWQ2M2NiMjNkNDFjMzczODk0Y2UyZjlhMTQ1NDliOTkwNTg3YTk0YTk="
+  },
+  "git-provider": "GitHub",
+  "git-company": "jechante",
+  "repository-name": "river"
+}
